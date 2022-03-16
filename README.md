@@ -1,3 +1,5 @@
+Authors: Albert Ściseł, Mateusz Szczepanowski
+
 # TASK
 The task is to optimize the cost of the optical network (minimize the cost of the transponders used) for the network of 12 Polish cities. The network is represented by a graph, the nodes and edges of which are described in the data attached to the task.
 
